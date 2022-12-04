@@ -52,7 +52,7 @@ objects:
     description: |
       Represents a collection of external workforces. Provides namespaces for
       federated users that can be referenced in IAM policies.
-      Note: Ask your Google Cloud account team to request access to workforce identity
+      ~> **Note:** Ask your Google Cloud account team to request access to workforce identity
       federation for your billing/quota project. The account team notifies you when the project is
       granted access.
     references: !ruby/object:Api::Resource::ReferenceLinks
